@@ -19,11 +19,11 @@
     "completions": {
       "flake": false,
       "locked": {
-        "lastModified": 1775794697,
-        "narHash": "sha256-fBPtrDWbTRvdN0VljWLBE9dON7Kgzzmce95FXiyvNog=",
+        "lastModified": 1775956390,
+        "narHash": "sha256-JVX+gWLvcnln4pEJ/d4I7iIfWXHZ+zu8MRMGIslh/Fw=",
         "owner": "zsh-users",
         "repo": "zsh-completions",
-        "rev": "72d91588a3335e1b0cf19071fa0cdb24dea6f453",
+        "rev": "ed67fbb8ee9ec00abfaecdc3dcfc330202ede323",
         "type": "github"
       },
       "original": {
